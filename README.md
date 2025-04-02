@@ -1,26 +1,28 @@
-# Iran Public IP List for MikroTik
+# لیست آدرس‌های آی‌پی پابلیک ایران برای میکروتیک
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
-[فارسی](https://github.com/Ramtiiin/iran-ip/blob/main/README.fa.md)
+[English](https://github.com/JavaddZiyaei/Iran-IPList-Mikrotik/blob/main/README.en.md)
 
-This repository provides a comprehensive list of public IP addresses assigned to Iran. The list is in the form of an **ip-list.rsc** file that can be easily imported into Winbox.
+این ریپازیتوری یک لیست جامع از آدرس‌های آی‌پی عمومی اختصاص یافته به ایران رو ارائه می‌ده. لیست به صورت یک فایل **ip-list.rsc** هست که به راحتی می‌شه اون رو به Winbox وارد کرد.
 
-## Usage
+## روش استفاده
 
-1. Download the [**ip-list.rsc**](https://github.com/Ramtiiin/iran-ip/blob/main/ip-list.rsc) file from this repository.
-2. Open Winbox and drag the **ip-list.rsc** file into the application.
-3. In the Winbox terminal, type the following command:
+1. فایل [**ip-list.rsc**](https://github.com/JavaddZiyaei/Iran-IPList-Mikrotik/blob/main/Iran%20IP%20Address%20List%20Update%2013%20Farvardin%201404.rsc) رو دانلود کنید.
+2. برنامه Winbox رو باز کنید و فایل **ip-list.rsc** رو به برنامه آپلود کنید.
+3. در ترمینال Winbox، دستور زیر را وارد کنید:
 
 ```bash
 import ip-list.rsc
 ```
+این دستور لیست آدرس‌های آی‌پی رو به پیکربندی Winbox شما وارد می‌کند.
 
-## Disclaimer
-Please note that the use of public IP addresses listed in this repository is subject to legal regulations and restrictions. It is your responsibility to ensure compliance with applicable laws and regulations when using these IP addresses. The contributors of this repository do not guarantee the accuracy or availability of these IP addresses and are not liable for any consequences arising from their use.
+## توجه
+لطفاً توجه داشته باشید که مسئولیت اطمینان از رعایت قوانین و مقررات مربوطه در هنگام استفاده از این آدرس‌های آی‌پی بر عهده شماست. افراد همکار در این ریپازیتوری دقت و دسترسی به این آدرس‌های آی‌پی رو تضمین نمی‌کنند و هیچگونه مسئولیتی در قبال دقت، دسترسی و همچنین هرگونه عواقب ناشی از استفاده از آدرس‌های آی‌پی رو نمی‌پذیرند.
 
-## Contributing
-**Contributions are welcome!** If you have any suggestions, improvements, or additional IP addresses to add to the list, please feel free to open an issue or submit a pull request.
+## همکاری
+همکاری شما باعث بهبود و دقیق‌تر شدن این لیست می‌شه! اگر پیشنهادات، بهبودها یا آدرس‌های آی‌پی اضافی برای افزودن به لیست دارید، لطفاً Pull Request بفرستید.
 
-## License
-This project is licensed under the [MIT License](https://github.com/yourusername/yourrepository/blob/main/LICENSE). See the LICENSE file for more information.
+## مجوز
+این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر، فایل LICENSE را مشاهده کنید.
+
