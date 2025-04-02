@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
-[English](https://github.com/JavaddZiyaei/Iran-IPList-Mikrotik/blob/main/README.en.md)
+[English](https://github.com/JavaddZiyaei/iran-iplist-mikrotik/blob/main/README-EN.md)
 
 این ریپازیتوری یک لیست جامع از آدرس‌های آی‌پی عمومی اختصاص یافته به ایران رو ارائه می‌ده. لیست به صورت یک فایل **ip-list.rsc** هست که به راحتی می‌شه اون رو به Winbox وارد کرد.
 
