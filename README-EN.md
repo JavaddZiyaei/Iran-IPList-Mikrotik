@@ -2,13 +2,13 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 
-[فارسی](https://github.com/Ramtiiin/iran-ip/blob/main/README.fa.md)
+[فارسی](https://github.com/JavaddZiyaei/iran-iplist-mikrotik/blob/main/README.md)
 
 This repository provides a comprehensive list of public IP addresses assigned to Iran. The list is in the form of an **ip-list.rsc** file that can be easily imported into Winbox.
 
 ## Usage
 
-1. Download the [**ip-list.rsc**](https://github.com/Ramtiiin/iran-ip/blob/main/ip-list.rsc) file from this repository.
+1. Download the [**ip-list.rsc**](https://github.com/JavaddZiyaei/Iran-IPList-Mikrotik/blob/main/Iran%20IP%20Address%20List%20Update%2013%20Farvardin%201404.rsc) file from this repository.
 2. Open Winbox and drag the **ip-list.rsc** file into the application.
 3. In the Winbox terminal, type the following command:
 
